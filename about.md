@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I am a Data Scientist using R in daily business life.
+I am a Enterprise Data Architect most of the day. 
